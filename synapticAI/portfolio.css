@@ -1,0 +1,61 @@
+nav{
+    border: 2px solid rgb(5, 132, 190);
+    border-radius: 20px;
+    height: 40px;
+    width: 950px;
+    background-color:rgb(30, 163, 224) ;
+    margin: 10px;
+    padding: 10px; 
+}
+a{
+    margin: 20px;
+    padding: 15px;
+    color: black;
+    font-weight: bolder;
+    font-size: 20px;
+}
+#webname{
+    font-weight: bolder;
+    font-size: 30px;
+}
+.portfolio{
+    position: absolute;
+    left: 650px;
+    height: 230px;
+    width: 350px;
+    margin-top: 40px;
+    margin-right: 15px;
+}
+h2{
+    margin-left: 10px;
+}
+p{
+    margin-left: 10px;
+}
+
+
+footer{
+    border: 2px solid rgb(5, 132, 190);
+    border-radius: 20px;
+    height: 200px;
+    width: 940px;
+    background-color:rgb(30, 163, 224) ;
+    margin: 10px;
+    padding: 20px;
+}
+.contact{
+    text-align: center;
+}
+.address{
+    text-align: center;
+}
+.madeby{
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin: 10px;
+
+}
